@@ -51,5 +51,6 @@ interp_factor = (desired framerate) * (dt)
 
 For example, to create a 30fps animation with trajectory data recorded at 0.1s intervals, the interp_factor should be 3.0.
 
+To further edit/crop the resulting gifs, use a [gif editor](https://ezgif.com/crop).
 ## Sample animation
 ![soaring gif](./myflight.gif)
